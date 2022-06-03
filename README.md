@@ -7,8 +7,6 @@
 
 
 
-<p align="center"><a href="https://t.me/codexun"><img src="https://telegra.ph/file/5a49680de5759f290ad8d.jpg"></a></p>
-<p align="center">
 
 <p align="center">
     <br><b>Kangers Welcome You!</b><br>
