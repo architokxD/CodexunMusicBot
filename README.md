@@ -1,16 +1,11 @@
 
-<h2 align="centre">Codexun Music Bot</h2>
+<h2 align="centre">Shine Music Bot</h2>
 
 <p align="center">
     <br><b>Telegram music bot which can helps to play music on groups voice chat.</b><br>
 </p>
 
-<p align="center">
-    <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
-    <a href="https://github.com/PavanMagar/CodexunMusicBot"> <img src="https://img.shields.io/github/forks/PavanMagar/CodexunMusicBot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/PavanMagar/CodexunMusicBot"> <img src="https://img.shields.io/github/repo-size/PavanMagar/CodexunMusicBot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>    
-    <a href="https://github.com/PavanMagar/CodexunMusicBot"> <img src="https://img.shields.io/github/stars/PavanMagar/CodexunMusicBot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-</p>
+
 
 <p align="center"><a href="https://t.me/codexun"><img src="https://telegra.ph/file/5a49680de5759f290ad8d.jpg"></a></p>
 <p align="center">
@@ -19,7 +14,7 @@
     <br><b>Kangers Welcome You!</b><br>
 </p>
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=PavanMagar&repo=CodexunMusicBot&theme=dark)
+
 
 
 <h3>
@@ -74,13 +69,13 @@ If you didn't know how to do this
 Then simply contact us at support group.
 # suggesting to select Europe server for lag-free music.
 ```
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/PavanMagar/CodexunMusicBot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" target="_blank"/></a></p>  
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/architokxd/ShineMusicBot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" target="_blank"/></a></p>  
 <p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=UGF2YW5NYWdhci9Db2RleHVuTXVzaWNCb3QgbWFpbg"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="250""/</a>  </p>
 
 
 ## Get Support
 
-<a href="https://t.me/TeamCodexun"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/codexun"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/ShineVCbot_support"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Shinevcupdates">
 
 
 ## Credits
